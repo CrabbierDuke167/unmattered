@@ -128,9 +128,15 @@ The codebase is structured so that individual systems can evolve without requiri
 
 ## Lead Developer
 
-**Diyon Daison**
+**Diyon Daison**  
+GitHub: **[@CrabbierDuke167](https://github.com/CrabbierDuke167)**
 
-GitHub: **CrabbierDuke167**
+---
+
+## Esteemed Contributor
+
+**@[ALEX]**  
+GitHub: **[@Alexxu12](https://github.com/Alexxu12)**
 
 ---
 
@@ -138,11 +144,11 @@ GitHub: **CrabbierDuke167**
 
 **Unmattered** is **source-available** and licensed under the
 
-**Unmattered Source-Available License © 2026 Diyon Daison**.
+**Unmattered Source-Available License © 2026 Team Unmattered**.
 
 You may view, study, modify, and use the source for personal, educational, and other **non-commercial purposes**.
 
-**Commercial use, monetization, resale, redistribution for commercial purposes, or commercial derivative works require prior written permission from Diyon Daison.**
+**Commercial use, monetization, resale, redistribution for commercial purposes, or commercial derivative works require prior written permission from Team Unmattered.**
 
 This project is **not open source** and is not intended to grant the broad rights associated with open-source software licenses.
 
@@ -150,9 +156,9 @@ See [`LICENSE`](./LICENSE) for the full terms.
 
 ---
 
-© 2026 Diyon Daison. All rights reserved.
+© 2026 Team Unmattered. All rights reserved.
 
 > Unmattered and its original creative content are created and owned by
-> Diyon Daison unless otherwise stated.
+> Team Unmattered unless otherwise stated.
 
 <p align="center"><i>Every frame matters. Every movement doesn't.</i></p>
